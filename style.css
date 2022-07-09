@@ -16,7 +16,6 @@ main {
   width: 1000px;
   margin: 50px auto;
   display: flex;
-  /*align-items: center;*/
 
 }
 
@@ -87,11 +86,9 @@ main {
   }
 
 .flex {
-  display: flex;
   width: 90%;
   gap: 20px;
   flex-direction:column;
-　/*align-items: center;*/
 }
 
 .step-box {
